@@ -4,6 +4,8 @@
  Contributors are always welcomed :)
  
  For Game instructions got to output/respectivegame/instructions.txt
+ 
+ 
  ENJOY-INSPIRE!
  
  Dev- sivangbagri@gmail.com
